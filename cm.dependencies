@@ -1,7 +1,7 @@
 [
  {
-   "repository": "lge-kernel-e0",
+   "repository": "JacobTech/L38C-Dynamic-Kernel",
    "target_path": "kernel/lge/e0",
-   "branch": "android-msm-2.6.38"
+   "branch": "master"
  }
 ]
