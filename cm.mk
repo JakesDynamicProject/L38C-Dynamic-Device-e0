@@ -4,7 +4,7 @@ $(call inherit-product, vendor/cm/config/gsm.mk)
 TARGET_BOOTANIMATION_NAME := vertical-240x320
 
 # Release name
-PRODUCT_RELEASE_NAME := OptimusL3
+PRODUCT_RELEASE_NAME := Optimus E0
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
